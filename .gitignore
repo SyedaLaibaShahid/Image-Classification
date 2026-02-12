@@ -1,0 +1,11 @@
+
+dataset/
+*.zip
+
+model.p
+*.p
+
+__pycache__/
+*.pyc
+
+
